@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^21.11.0"
+  },
+  "name": "ukg_auto_unlock_new",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
